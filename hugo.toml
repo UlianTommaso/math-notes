@@ -1,0 +1,19 @@
+baseURL = "https://tommasoulian.github.io/math-notes/"
+title = "Math Notes"
+theme = "PaperMod"
+
+[params]
+  math = true
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Diario"
+    url = "/posts/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "Su di me"
+    url = "/about/"
+    weight = 20
