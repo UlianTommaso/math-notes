@@ -5,7 +5,7 @@ type = "page"
 math = true
 +++
 
-<img src="image.jpeg" alt="Tommaso Ulian" class="profile-img">
+<img src="image.jpeg" alt="Tommaso Ulian" class="profile-img" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; float: right; margin-left: 20px;">
 
 Ciao, Sono **Tommaso Ulian**!
 
