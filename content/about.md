@@ -21,4 +21,4 @@ Sono uno studente/ricercatore con un forte interesse per l'algebra, i sistemi di
 - Corsa e allenamenti per la Mezza Maratona
 
 ## Contatti
-- [GitHub](https://github.com/tommasoulian)
+- [GitHub](https://github.com/uliantommaso)
